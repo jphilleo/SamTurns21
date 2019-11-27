@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Sam Present",
+"productVersion": "0.1",
+"dataUrl": "Web Game - Final.data.unityweb",
+"wasmCodeUrl": "Web Game - Final.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web Game - Final.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
